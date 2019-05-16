@@ -1,4 +1,4 @@
-# goodreadsScrape
+# quotesScrape
 
 Scraping quotes from [goodreads](https://www.goodreads.com/quotes) and [Criminal Minds fandom](http://criminalminds.wikia.com/wiki/Extreme_Aggressor) website using Scrapy framework.
 
